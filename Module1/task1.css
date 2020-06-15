@@ -1,0 +1,12 @@
+#block{
+   
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+#myDiv{
+    display: grid;
+    flex-direction: row;
+}
+
