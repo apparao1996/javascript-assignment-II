@@ -10,5 +10,6 @@ function getRandomColor() {
     }
     return color;
    }
+   
 
    //document.getElementById("color").addEventListener("mouseover",setRandomColor);
